@@ -25,9 +25,9 @@ logo=("""{B}
 {B}**************************************************
 {ascii}
 {B}**************************************************
-{G}Author   >>  Tahsan-Nayem [Noob-Hacker71]
-{Y}Facebook >>  https://facebook.com/Noob.Hacker71
-{C}Github   >>  https://github.com/Noob-Hacker71
+{G}Author   >>  trhacknon [anonymous]
+{Y}Facebook >>  https://facebook.com/trhacknon
+{C}Github   >>  https://github.com/trhacknon
 {B}**************************************************
 """.format(ascii=design,B=B,C=C,G=G,Y=Y))
 
